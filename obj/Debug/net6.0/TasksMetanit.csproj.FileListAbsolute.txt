@@ -1,0 +1,15 @@
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.csproj.AssemblyReference.cache
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.AssemblyInfoInputs.cache
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.AssemblyInfo.cs
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.csproj.CoreCompileInputs.cache
+D:\Обучение\Учеба\Seminars#\TasksMetanit\bin\Debug\net6.0\TasksMetanit.exe
+D:\Обучение\Учеба\Seminars#\TasksMetanit\bin\Debug\net6.0\TasksMetanit.deps.json
+D:\Обучение\Учеба\Seminars#\TasksMetanit\bin\Debug\net6.0\TasksMetanit.runtimeconfig.json
+D:\Обучение\Учеба\Seminars#\TasksMetanit\bin\Debug\net6.0\TasksMetanit.dll
+D:\Обучение\Учеба\Seminars#\TasksMetanit\bin\Debug\net6.0\TasksMetanit.pdb
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.dll
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\refint\TasksMetanit.dll
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.pdb
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\TasksMetanit.genruntimeconfig.cache
+D:\Обучение\Учеба\Seminars#\TasksMetanit\obj\Debug\net6.0\ref\TasksMetanit.dll
